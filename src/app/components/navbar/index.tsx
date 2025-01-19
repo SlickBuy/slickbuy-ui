@@ -31,7 +31,7 @@ export default function NavBar() {
           component="p"
           sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
         >
-          Vasil Lazarov
+          Slck buy
         </Typography>
         <Box sx={{ display: { xs: "none", sm: "block" } }}>
           <Button color="secondary" href="/login">

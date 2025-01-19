@@ -1,6 +1,6 @@
 // fetchService.js
 
-const BASE_URL = "http://152.44.43.112:3002";
+const BASE_URL = "https://152.44.43.112:3002";
 
 const headers = {
   "Content-Type": "application/json",
