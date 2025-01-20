@@ -29,11 +29,11 @@ export default function Home() {
   }, []);
   return (
     <main>
-      <Carousel>
+      {/* <Carousel>
         {items.map((item, i) => (
           <Item key={i} item={item} />
         ))}
-      </Carousel>
+      </Carousel> */}
       <Container fixed>
         <Typography gutterBottom variant="h5" component="h3">
           Нашите последни продукти
