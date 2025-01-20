@@ -21,17 +21,17 @@ export default function NavBar() {
         >
           <MenuIcon />
         </IconButton>
-        <img
+        {/* <img
           src="/logo.png"
           alt="Logo"
           style={{ height: "40px", marginRight: "16px" }}
-        />
+        /> */}
         <Typography
           variant="h6"
           component="p"
           sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
         >
-          Slck buy
+          Slick buy
         </Typography>
         <Box sx={{ display: { xs: "none", sm: "block" } }}>
           <Button color="secondary" href="/login">
