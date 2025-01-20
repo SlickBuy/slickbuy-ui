@@ -77,7 +77,7 @@ export default function ProductPage() {
     <Container component="section" maxWidth={"lg"}>
       <section className=" core">
         <div className="gallery image">
-          <img src="/protein.webp" alt="product-1" />
+          <img src="/microwave.webp" alt="product-1" />
         </div>
         <Description
           product={product}
